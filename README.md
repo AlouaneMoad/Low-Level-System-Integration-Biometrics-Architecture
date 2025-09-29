@@ -1,1 +1,0 @@
-# Low-Level-System-Integration-Biometrics-Architecture
