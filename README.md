@@ -129,7 +129,7 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 alouanemoad@gmail.com
 
-Project Link: https://github.com/your-username/project-sentinel
+Project Link: [https://github.com/your-username/project-sentinel](https://github.com/AlouaneMoad/Low-Level-System-Integration-Biometrics-Architecture)
 
 
 
